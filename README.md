@@ -1,2 +1,2 @@
-# chatgpt_en_python
-Embeber ChatGPT en un script de python.
+# ChatGPT en python
+Este repositorio sirve de soporte para un articulo que escribí en mi perfil de dev.to.
